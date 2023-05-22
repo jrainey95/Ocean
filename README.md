@@ -6,7 +6,8 @@ The project was to find misplaced code, correct applications links, replace any 
 
 ## Screenshot
 
-![Screenshot 2023-05-21 212604](https://github.com/jrainey95/Hawaii/assets/133160389/5e3d4690-c7c9-477a-9ada-fa546fa6698c)
+![Screenshot 2023-05-22 161620](https://github.com/jrainey95/Ocean/assets/133160389/c6bc7369-debf-4c33-a4bc-705c530871d6)
+
 
 ## Links 
 
